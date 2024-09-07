@@ -49,3 +49,5 @@ Feel free to reach out to me if you'd like to discuss tech, collaborate on proje
 
 - **Email:** [rahuljadvani24@gmail.com](mailto:rahuljadvani24@gmail.com)
 - **GitHub:** [Rahul-Jadvani](https://github.com/Rahul-Jadvani)
+- **LinkedIn:** [Rahul Jadvani](https://www.linkedin.com/in/rahul-jadvani-741751208)
+- **Portfolio:** [rahuljadvani.com](https://rj-portfolio-next-js.vercel.app/)
